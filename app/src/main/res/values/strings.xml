@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BankCounter</string>
+    <string name="waiting_person_number_text">Waiting person</string>
+    <string name="current_number_text">Current number</string>
+    <string name="bank_counter_idle_text">idle</string>
+
+</resources>
